@@ -1,33 +1,47 @@
-## Oie, eu sou a Bárbara Valle 
+### Oie, eu sou a Bárbara Valle 
+Sou Engenheira de Produção em transição para a área de Ciência de Dados, com foco em ETL, engenharia de dados, análise e preparação de datasets.
+Atualmente desenvolvo projetos práticos utilizando Python, SQL, ambiente virtual (venv) e WSL (Ubuntu) para garantir reprodutibilidade e boas práticas de desenvolvimento.
 
-🎓 Engenheira de Produção de formação  
-📚 Atualmente estudando **Ciência de Dados** para fazer minha migração de carreira  
-📊 Interesses: ETL, análise de dados, estatística e visualização de dados  
-💻 Aqui você vai encontrar meus projetos de estudo e prática  
+#### 💻 Tecnologias e Ferramentas
+##### Linguagens & Bibliotecas
+- Python (Pandas, Requests, SQLAlchemy, Unidecode)
+- SQL (MySQL)
+  
+##### Ferramentas de Desenvolvimento
+- Visual Studio Code
+- WSL2 (Ubuntu)
+- Ambientes virtuais (venv)
+- Git & GitHub
+- Jupyter Notebook / Google Colab
 
----
+#### Processos & Boas Práticas
+- Estruturação de pipelines ETL
+- Criação de ambientes isolados
+- Versionamento de código
+- Organização de diretórios e documentação  
 
-### 💻 Tecnologias e ferramentas
-<p> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50"/> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50"/>  &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" height="50"/>   &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50"/> &nbsp; &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50"/> &nbsp; &nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50"/> &nbsp; &nbsp;  
-          
+
+<br>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40"/> &nbsp;&nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/>  &nbsp;&nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" height="40"/>   &nbsp;&nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40"/> &nbsp; &nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/> &nbsp; &nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40"/> &nbsp; &nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40"/> &nbsp; &nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40"/> &nbsp; &nbsp;&nbsp;            
 </p>
-          
---- 
 
-### 📝 Atualmente estudando
-- Limpeza e tratamento de dados com **Python**
-- **SQL** para análise de dados
+#### 📚 Atualmente Estudando e Aprofundando
+- Engenharia de Dados (ETL, pipelines e boas práticas)
+- SQL intermediário/avançado
+- Modelagem relacional
+- Análise exploratória e estatística com Python
 
----
+#### 📈 Em constante evolução
+Meu perfil está crescendo conforme eu evoluo na área.
+Fique à vontade para acompanhar meu progresso :)
 
-### 🚧 Em construção
 
-Este perfil está crescendo junto comigo!  
-Fique à vontade para acompanhar minha evolução 😅
 
