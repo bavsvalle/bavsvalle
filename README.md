@@ -3,18 +3,18 @@ Sou Engenheira de Produção em transição para a área de Ciência de Dados, c
 Atualmente desenvolvo projetos práticos utilizando Python, SQL, ambiente virtual (venv) e WSL (Ubuntu) para garantir reprodutibilidade e boas práticas de desenvolvimento.
 
 #### 💻 Tecnologias e Ferramentas
-##### Linguagens & Bibliotecas
+Linguagens & Bibliotecas
 - Python (Pandas, Requests, SQLAlchemy, Unidecode)
 - SQL (MySQL)
-  
-##### Ferramentas de Desenvolvimento
+
+Ferramentas de Desenvolvimento
 - Visual Studio Code
 - WSL2 (Ubuntu)
 - Ambientes virtuais (venv)
 - Git & GitHub
 - Jupyter Notebook / Google Colab
 
-#### Processos & Boas Práticas
+Processos & Boas Práticas
 - Estruturação de pipelines ETL
 - Criação de ambientes isolados
 - Versionamento de código
