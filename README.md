@@ -12,21 +12,31 @@
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white)
 
-Sou Engenheira de Produção em transição para a Ciência de Dados, com foco em ETL, preparação de dados e análise.
-Desenvolvo projetos utilizando Python, SQL, WSL2 (Ubuntu) e ambientes virtuais (venv), seguindo boas práticas de organização, reprodutibilidade e versionamento.
+
+Sou Engenheira de Produção em transição para Ciência de Dados, com foco em Engenharia de Dados e Machine Learning.
+Desenvolvo projetos envolvendo ETL, preparação e padronização de dados, análise exploratória e modelos de aprendizado não supervisionado.
+Trabalho com Python, SQL, Linux (WSL2/Ubuntu) e ambientes virtuais, priorizando organização, reprodutibilidade e boas práticas de versionamento.
 
 💻 Tecnologias e Ferramentas
-- Python (Pandas, Requests, SQLAlchemy, Unidecode)
+- Python (Pandas, SciPy, Scikit-Learn, Plotly, Requests, SQLAlchemy, Unidecode)
+- Estatística Aplicada e Machine Learning (Clustering Hierárquico, K-Means, Z-score)
 - SQL (MySQL)
-- WSL2 (Ubuntu) • venv • VS Code • Git & GitHub
-- Jupyter Notebook • Google Colab
+- Linux (WSL2 / Ubuntu)
+- Ambientes Virtuais: venv • Conda
+- Git & GitHub
+- Jupyter Notebook • Spyder • Google Colab
 
 ⭐ O que estou construindo
 - Projetos de ETL end-to-end
-- Análises exploratórias e limpeza de dados
+- EDA com identificação de padrões e outliers
+- Modelos de Clustering (Hierárquico e K-Means)
+-  Comparação de métodos de aprendizado não supervisionado  
 - Pipelines reprodutíveis com venv + WSL2
-- Estudos em Unsupervised Machine Learning com Apache Spark
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bavsvalle/bavsvalle/output/github-contribution-grid-snake-dark.svg">
